@@ -35,3 +35,7 @@ python app.py
 2. Download the `train.csv` file
 3. Place it in the same folder as your notebook or script
 
+## 🎥 Demo Video
+
+Watch it here 👉 [Demo on Loom](https://www.loom.com/share/8c3bfd99783043e5a7e033b8bca929d6?sid=28635190-da39-4476-82a0-2247a363a210)
+
