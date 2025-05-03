@@ -27,3 +27,11 @@ The model is trained using linear regression and the dataset is from Kaggle.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## 📥 How to Get the Dataset
+
+1. Go to the Kaggle competition page:  
+   https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+2. Download the `train.csv` file
+3. Place it in the same folder as your notebook or script
+
